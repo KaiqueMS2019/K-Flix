@@ -1,27 +1,36 @@
-# react-movie
+<h1>
+    K - FLIX
+</h1>
 
-    Responsive React Movies App With API
+## 🔖Sobre
 
-# Video tutorial
+O projeto é uma releitura da tela de plataformas de streamer de filmes, como a Netflix, Disney+ entre outros, desenvolvido com React e sendo responsivo já que hoje em dia se usa muito essas plataformas diretamente pelo celular. Com uma tela simples para o usuario e cores que traga a similaridade, que utiliza a API TMDB para retornar todas as informações sobre filmes, series e até novelas, desde os detalhes, trailers e imagens.  Tendo uma tela Home, com os filmes mais recentes e mostrando tendencias em geral, uma tela especifica para filmes e uma para séries onde em ambos tem um campo de pesquisa para facilita nas buscas.
 
-    https://youtu.be/ntYXj9W1Ez8
+---
 
-# Resource
+## 🚀Tecnologias
 
-    Google font: https://fonts.google.com/
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-    Boxicons: https://boxicons.com/
+- [SASS](https://sass-lang.com/documentation/)
+- [ReactJS](https://reactjs.org/docs/getting-started.html)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
+- [TMDB](https://www.themoviedb.org/)
 
-    Images: https://unsplash.com/
+---
 
-    API: https://www.themoviedb.org/
+## 📁 Como Clonar o projeto
 
-# Preview
+```bash
+# Clonar o repositório
+$ git clone https://github.com/KaiqueMS2019/K-Flix.git
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
+# Entrar no diretório
+$  cd K-FLIX
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
+# Instalar as dependências
+$  npm install
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
-
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
+#Startar o projeto
+$ npm start
+```
