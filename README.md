@@ -33,3 +33,10 @@ $  npm install
 
 #Startar o projeto
 $ npm start
+
+````
+---
+
+## 🚀Link para o Web-App
+- [Web-App](https://k-flix.vercel.app/)
+
