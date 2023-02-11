@@ -30,7 +30,3 @@ $  cd K-FLIX
 
 # Instalar as dependências
 $  npm install
-
-#Startar o projeto
-$ npm start
-```
